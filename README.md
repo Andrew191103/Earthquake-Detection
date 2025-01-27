@@ -135,8 +135,7 @@ Pie chart showing temporal spread of seismic events.
    ```bash
    jupyter notebook EarthquakePredictionFinal.ipynb
    ```
-4. Add visualization images to the `images/` folder and update the README accordingly.
-
+   
 ## Contributors
 - **Andrew Sebastian Sibuea**  
-  [andrew.sibuea@binus.ac.id](mailto:andrew.sibuea@binus.ac.id)
+  [andrewsbastians11@gmail.com](mailto:andrewsbastians11@gmail.com)
