@@ -75,7 +75,7 @@ Visualizations provide a comprehensive understanding of seismic patterns:
 ### Key Visualizations
 1. **All Affected Areas**
    - Highlights global earthquake distribution.
-   - ![All Affected Areas](images/earthquake_distribution.png)
+   - <img src="images/earthquake_distribution.png" alt="All Affected Areas" width="800">
 2. **Location Classification (Oceanic vs Continental)**
    - Differentiates events by their tectonic context.
    - ![Location Classification](images/location_classification.png)
