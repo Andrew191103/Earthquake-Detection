@@ -26,11 +26,16 @@ Despite advancements in geosciences, traditional methods fall short in accuratel
 - Provide actionable insights for disaster preparedness.
 
 ## Dataset
+<div align="center">
+  <img src="images/dataset.png" alt="Dataset Overview" width="700">
+</div>
+
 The dataset used in this project was sourced from Kaggle's National Earthquake Information Center (NEIC) data, containing 23,412 earthquake records with 21 attributes. It includes critical features such as:
-- Date and Time
-- Latitude and Longitude
-- Depth and Magnitude
-- Location Type (Oceanic/Continental)
+
+- **Date and Time**: Provides a timestamp for each earthquake event.
+- **Latitude and Longitude**: Represents the geographical location of the event.
+- **Depth and Magnitude**: Indicates the intensity and scale of the earthquake.
+- **Location Type (Oceanic/Continental)**: Categorizes the region of occurrence.
 
 **Dataset Link**: [Earthquake Dataset on Kaggle](https://www.kaggle.com/datasets/usgs/earthquake-database/data)
 
