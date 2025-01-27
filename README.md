@@ -75,28 +75,28 @@ Visualizations provide a comprehensive understanding of seismic patterns:
 ### Key Visualizations
 1. **All Affected Areas**
    - Highlights global earthquake distribution.
-   - <img src="images/earthquake_distribution.png" alt="All Affected Areas" width="800">
+   <img src="images/earthquake_distribution.png" alt="All Affected Areas" width="800">
 2. **Location Classification (Oceanic vs Continental)**
    - Differentiates events by their tectonic context.
-   - ![Location Classification](images/location_classification.png)
+   <img src="images/location_classification.png" alt="Location Classification" width="800">
 3. **Earthquake Occurrences Heatmap**
    - Displays density of earthquake events using hexagonal bins.
-   - ![Heatmap](images/heatmap.png)
+   <img src="images/heatmap.png" alt="Heatmap" width="600">
 4. **Earthquake Data Distribution Maps**
    - Scatter plots for magnitude and depth distributions.
-   - ![Data Distribution](images/data_distribution.png)
+   <img src="images/data_distribution.png" alt="Data Distribution" width="800">
 5. **Interactive Visualization Map**
    - Folium-based interactive map for seismic data exploration.
    - ![Interactive Map](images/interactive_map.gif)
 6. **Geographical Network Graph**
    - Displays connectivity of earthquake events.
-   - ![Network Graph](images/network_graph.png)
+   <img src="images/network_graph.png" alt="Network Graph" width="800">
 7. **Distribution of Earthquake Types**
    - Pie chart illustrating the proportions of tectonic, volcanic, and anthropogenic events.
-   - ![Earthquake Types](images/earthquake_types.png)
+   <img src="images/earthquake_types.png" alt="Earthquake Types" width="400">
 8. **Distribution of Earthquakes by Time of Day**
    - Pie chart showing temporal spread of seismic events.
-   - ![Time Distribution](images/time_distribution.png)
+   <img src="images/time_distribution.png" alt="Time Distribution" width="400">
 
 ## Installation and Usage
 1. Clone the repository:
