@@ -13,7 +13,6 @@ This repository contains the implementation and analysis of advanced machine lea
 - [Visualization](#visualization)
 - [Installation and Usage](#installation-and-usage)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -65,7 +64,7 @@ The LightGBM algorithm outperformed others with an accuracy of **92%**, demonstr
 |------------------|----------|----------|----------|
 | SVM              | 0.92     | 0.92     | 0.61     |
 | XGBoost          | 0.88     | 0.88     | 0.68     |
-| LightGBM         | 0.92     | 0.92     | 0.65     |
+| **LightGBM**         | **0.92**     | **0.92**     | **0.65**     |
 | Decision Tree    | 0.87     | 0.88     | 0.66     |
 | Random Forest    | 0.90     | 0.90     | 0.68     |
 
@@ -141,6 +140,3 @@ Pie chart showing temporal spread of seismic events.
 ## Contributors
 - **Andrew Sebastian Sibuea**  
   [andrew.sibuea@binus.ac.id](mailto:andrew.sibuea@binus.ac.id)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
